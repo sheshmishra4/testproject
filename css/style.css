@@ -158,6 +158,9 @@ h3{
     height: inherit;
 }
 @media screen and (max-width: 992px) {
+    .header{
+        height:90px;
+    }
     .gride-wrapper{
         flex-direction: column;
     }
